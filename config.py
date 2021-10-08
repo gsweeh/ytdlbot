@@ -24,7 +24,7 @@ COFFEE_TOKEN = os.getenv("COFFEE_TOKEN")
 AFD_TOKEN = os.getenv("AFD_TOKEN")
 AFD_USER_ID = os.getenv("AFD_USER_ID")
 
-OWNER = os.getenv("OWNER", "BennyThink")
+OWNER = os.getenv("OWNER", "Pankaj")
 
 APP_ID: "int" = int(os.getenv("APP_ID", 2923258))
 APP_HASH = os.getenv("APP_HASH", "4c843703f04453d401e32b130e7425f5")
